@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+- Pilha de vetor ok
+-Pilha alocação ok
+
+- Fila de vetor  ok 
+- Fila circular ñ
+- Fila alocação ok
+
+- Lista de vetor *
+- Lista alocação 
+
+- Arvore de vetor ñ
+- Arvore generica ñ
+- Arvore binaria
+
+- Heap
